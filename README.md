@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, my name is Mara ✨
+
+Welcome to my GitHub profile!
+
+**NOW:** I'm learning at [Adalab](https://adalab.es/) 💜
+
+- Front-end designer and developer
+- Graphic designer
+
+```HTML5 and CSS3 layout``` ```JavaScript ES6``` ```React JS``` ```Mobile First Design``` ```Responsive Web Design``` ```CSS Flexbox``` ```CSS Grid``` ```Sass preprocessor``` ```BEM naming convention``` ```Version control with Git``` ```Agile & Scrum``` ```PHP``` ```Bootstrap```
 
 <!--
 **mararochafernandez/mararochafernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
