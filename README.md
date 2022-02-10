@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - Graphic designer
 - Reader and knitter
 
-`HTML5 and CSS3 layout` `JavaScript ES6` `React JS` `Node JS` `Mobile First Design` `Responsive Web Design` `CSS Flexbox` `CSS Grid` `Sass preprocessor` `BEM naming convention` `Version control with Git` `Agile & Scrum` `Clean code` `Bootstrap` `PHP` `Java` `Relational database`
+`HTML5` · `CSS3` · `Sass` · `BEM` · `JavaScript ES6` · `React JS` · `Node JS` · `Espress JS` · `SQL` · `PHP` · `MySQL` · `API Rest` · `CSS Flexbox` · `CSS Grid` · `Responsive Web Design` · `Mobile First` · `Version control with Git` · `Agile & Scrum` · `Clean code` · `Bootstrap`
 
 ---
 
