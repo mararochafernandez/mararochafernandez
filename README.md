@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 `HTML5` `CSS3` `Sass` `BEM` `JavaScript ES6` `React JS` `Node JS` `Espress JS` `SQL` `PHP` `MySQL` `API Rest` `CSS Flexbox` `CSS Grid` `Responsive Web Design` `Mobile First` `Version control with Git` `Agile & Scrum` `Clean code` `Bootstrap`
 
-###### Contact
+##### Contact
 
 <a href="https://www.instagram.com/maranhaknits"><img src="./images/instagram.svg" height="21px" /><img src="./images/10x10.png" /></a><a href="https://www.linkedin.com/in/mararochafernandez"><img src="./images/linkedin.svg" height="21px" /><img src="./images/10x10.png" /></a><a href="https://twitter.com/maranhaknits"><img src="./images/twitter.svg" height="21px" /></a>
 
