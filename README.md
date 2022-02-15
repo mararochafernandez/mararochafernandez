@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 #### Contact:
 
-<a href="https://www.instagram.com/maranhaknits"><img src="./images/instagram.svg" height="21px" title="Instagram: @maranhaknits" /><img src="./images/10x10.png" /></a><a href="https://www.linkedin.com/in/mararochafernandez"><img src="./images/linkedin.svg" height="21px" title="LinkedIn: @mararochafernandez" /><img src="./images/10x10.png" /></a><a href="https://twitter.com/maranhaknits"><img src="./images/twitter.svg" height="21px" title="Twitter: @maranhaknits" /></a>
+<a href="https://www.instagram.com/maranhaknits"><img src="./images/instagram.svg" height="21px" title="Instagram: @maranhaknits" /><img src="./images/15x15.png" /></a><a href="https://www.linkedin.com/in/mararochafernandez"><img src="./images/linkedin.svg" height="21px" title="LinkedIn: @mararochafernandez" /><img src="./images/15x15.png" /></a><a href="https://twitter.com/maranhaknits"><img src="./images/twitter.svg" height="21px" title="Twitter: @maranhaknits" /></a>
 
 ---
 
