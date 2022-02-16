@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 
 #### Contact:
 
-LinkedIn: [@mararochafernandez](https://www.linkedin.com/in/mararochafernandez) · Twitter: [@maranhaknits](https://twitter.com/maranhaknits) · Instagram: [@maranhaknits](https://www.instagram.com/maranhaknits)
+[LinkedIn](https://www.linkedin.com/in/mararochafernandez) · [Twitter](https://twitter.com/maranhaknits) · [Instagram](https://www.instagram.com/maranhaknits)
 
 ---
 
