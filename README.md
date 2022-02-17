@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - Graphic designer
 - Reader and knitter
 
-`HTML5` `CSS3` `Sass` `BEM` `Responsive Web Design` `Mobile First` `JavaScript ES6` `React JS` `Node JS` `Espress JS` `SQL` `Git` `Agile & Scrum` `PHP` `MySQL` `Bootstrap`
+`HTML5` `CSS3` `Sass` `BEM` `Responsive Web Design` `Mobile First Design` `JavaScript ES6` `React JS` `Node JS` `Espress JS` `SQL` `Git` `Agile & Scrum` `PHP` `MySQL` `Bootstrap`
 
 #### Projects:
 
