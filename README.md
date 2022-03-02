@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 - [Anime Search Engine](https://github.com/mararochafernandez/modulo-2-evaluacion-final)
 - [Anonymous Proxy](https://github.com/mararochafernandez/modulo-1-evaluacion-final)
 - [To-Do List](https://github.com/mararochafernandez/react-to-do-list) (frontend)
-- [To-Do List](https://github.com/mararochafernandez/node-to-do-list) (backend)
+- [To-Do List](https://github.com/mararochafernandez/node-to-do-list) (frontend + backend)
 - [Hangman Game](https://github.com/mararochafernandez/promo-o-module-3-pair-4-sprint-2-hangman-game) (in pair programming with [Sara Sánchez](https://github.com/SaraSanchezL))
 
 #### Contact:
