@@ -2,11 +2,13 @@
 
 Welcome to my GitHub profile!
 
-**NOW:** I'm learning at [Adalab](https://adalab.es) 💜
-
-- Front-end designer and developer
-- Graphic designer
+- Frontend Developer
+- Graphic Designer
 - Reader and knitter
+
+**NOW:** I'm learning by doing
+
+**2022:** Promo O at [Adalab](https://adalab.es) 💜
 
 `HTML5` `CSS3` `Sass` `BEM` `Responsive Web Design` `Mobile First Design` `JavaScript ES6` `React JS` `Node JS` `Espress JS` `SQL` `Git` `Agile & Scrum` `PHP` `MySQL` `Bootstrap`
 
